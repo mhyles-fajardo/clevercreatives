@@ -7,6 +7,10 @@
 	vertical-align: baseline;
 }
 
+.controls {
+	display: none;
+}
+
 article,
 aside,
 details,
